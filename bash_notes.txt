@@ -1,0 +1,2 @@
+cd ECE3220 
+cp -r /mnt/c/Users/gian-/OneDrive/Documentos/GitHub/MU_ECE_3220/labx/ Labx
